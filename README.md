@@ -1,9 +1,13 @@
 **📊 Bike Sales Performance Dashboard**
   
   Tool Used: Microsoft Excel
+  
   Domain: Retail / Sales Analytics
+  
   Project Type: Interactive Dashboard
+  
   Duration: 1 Week
+  
   Dataset: 2011–2016 Bike Sales Dataset (Simulated)
 
 **🎯 Objective**
@@ -13,10 +17,15 @@ To develop a comprehensive and interactive dashboard that analyzes sales perform
 **🧩** Key Features****
 
   KPI Cards showcasing:
+  
   Total Profit: $32.22M
+  
   Total Revenue: $85.27M
+  
   Total Orders: 1.34M
+  
   Avg. Unit Cost: $267.30
+  
   Overall Profit Margin: 37.79%
 
 **Year-wise Profit Margin Analysis (Line Chart):**
@@ -34,5 +43,7 @@ Highlights growth in profitability with key inflection years (2014–2015).
 **Dynamic Slicers for stakeholder-led filtering:**
 
 Age Groups: Adults, Seniors, Youth, etc.
+
 Country Selection
+
 Product Categories: Bikes, Clothing, Accessories
